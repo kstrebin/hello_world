@@ -1,0 +1,4 @@
+name = "HelloWorld"
+uuid = "517bdc27-85f7-4278-a6a9-ac9ee0730c03"
+authors = ["Katharina Strebinger <kstrebin@uni-muenster.de>"]
+version = "0.1.0"
